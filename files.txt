@@ -1,0 +1,14 @@
+modules/alu.sv
+modules/dff.sv
+modules/dff_en.sv
+modules/mux2x1.sv
+modules/mux4x1.sv
+modules/regfile.sv
+modules/shiftleft.sv
+modules/signext.sv
+controlunit.sv
+datapath.sv
+mem.sv
+mips.sv
+multi_cycle_mips.sv
+tb_multi_cycle_mips.sv
